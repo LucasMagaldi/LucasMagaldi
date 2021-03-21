@@ -1,6 +1,6 @@
 ### Lucas Magaldi - [Data Scientist] 👋
 
-## I am an software engineer Student and love data science
+## I am an software engineer student and lover data science
 
 - 💻 I’m currently studyng Data Science 
 - 💻 I'm also working with Technology
