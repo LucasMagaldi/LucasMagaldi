@@ -1,11 +1,10 @@
-### Lucas Magaldi - [Data Scientist] 👋
+### Lucas Magaldi  👋
 
 ## I am an software engineer student and lover data science
 
-- 💻 I’m currently studyng Data Science 
-- 💻 I'm also working with Technology
+- 💻 I’m currently studyng Backend  and full-stack skills
 - 📈 I’m constantly learning and Improving my skills 🤣
-- 📊 I’m looking to collaborate with other Data Scientists and developers 
+- 📊 I’m looking to collaborate with other developers 
 
 ### Connect with me:
 
