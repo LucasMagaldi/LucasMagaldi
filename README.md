@@ -1,6 +1,6 @@
-### Lucas Magaldi  👋
+### Hi,  I'm Lucas Magaldi  👋
 
-## I am an software engineer student and lover data science
+## 
 
 - 💻Full-stack developer at ExxonMobil 
 
