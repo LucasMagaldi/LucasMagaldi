@@ -9,7 +9,7 @@
 ### About Me 🚀
 - 🔭 I’m currently working as a Software Developer at ExxonMobil<br>
 - 👨🏾‍💻 Javascript lover 
-- ![image](https://github.com/user-attachments/assets/353aedc9-0f29-4686-9458-91b2d5efd147)
+- 🪙 Blockchain enthisiast
 
 
 <div align="center">
