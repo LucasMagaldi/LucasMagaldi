@@ -2,16 +2,15 @@
 
 <div>
   
-  <a href = "mailto:adamorhenner2@outlook.com"><img align="center" height="30" width="40" src="https://icongr.am/entypo/mail.svg?size=128&color=007bff" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/adamorhenner/" target="_blank"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a> 
+  <a href = "lucas.magaldi@hotmail.com"><img align="center" height="30" width="40" src="https://icongr.am/entypo/mail.svg?size=128&color=007bff" target="_blank"></a>
+  <a href="https://br.linkedin.com/in/lucasserramagaldi" target="_blank"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a> 
   </div>
 
 ### About Me 🚀
-- 🔭 I’m currently working as a Developer at [BoaVista](https://boavistatecnologia.com.br/)<br>
-- 👨🏾‍🎓 Graduating in Information Systems at [UNI7](https://www.uni7.edu.br/)<br>
-- 👨🏾‍💻 backend developer
-- 🌱 At the moment i'm learning FRONTEND technologies
-- 🔎 I’m an excellent Googler
+- 🔭 I’m currently working as a Software Developer at ExxonMobil<br>
+- 👨🏾‍💻 Javascript lover 
+- ![image](https://github.com/user-attachments/assets/353aedc9-0f29-4686-9458-91b2d5efd147)
+
 
 <div align="center">
   <a href="https://github.com/adamorhenner">
@@ -59,16 +58,3 @@ Here are a few things I've picked up along my learning journey.
 [<img align="left" alt="Scikit-learn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />](https://scikit-learn.org/stable/)
 
 
-
-
-<br />
-<br />
-
-
----
-
-
-
-
-[linkedin]: https://www.linkedin.com/in/lucas-serra-ba6071156/
-[instagram]: https://www.instagram.com/lmagaldii/
