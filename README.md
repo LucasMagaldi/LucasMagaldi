@@ -40,6 +40,3 @@ Here are a few things I've picked up along my learning journey.
   
   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=LucasMagaldi.LucasMagaldi)
 
-
-[<img align="left" alt="jhon_cabreira | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" />](https://www.instagram.com/lmagaldii/)
-
