@@ -9,13 +9,14 @@
 ### About Me 🚀
 - 🔭 I’m currently working as a Software Developer at ExxonMobil<br>
 - 👨🏾‍💻 Javascript lover 
-- 🪙 Blockchain enthisiast
+- 🪙 Blockchain enthusiast
+- 🪴 Developing Web 3.0
 
 
 <div align="center">
-  <a href="https://github.com/adamorhenner">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adamorhenner&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamorhenner&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/LucasMagaldi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasMagaldi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMagaldi&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ## ⚡ Tech Stack and Tools
