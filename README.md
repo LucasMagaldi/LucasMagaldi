@@ -38,24 +38,8 @@ Here are a few things I've picked up along my learning journey.
   <img align="center" alt="Adam-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
   
-
-  ![Snake animation](https://github.com/adamorhenner/adamorhenner/blob/output/github-contribution-grid-snake.svg)
-
-  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=adamorhenner.adamorhenner)
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=LucasMagaldi.LucasMagaldi)
 
 
 [<img align="left" alt="jhon_cabreira | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" />](https://www.instagram.com/lmagaldii/)
-
-
-
-<br />
-
-### Languages and Tools:
-
-<img align="left" alt="python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
-
-<img align="left" alt="visual studio code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-[<img align="left" alt="Scikit-learn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />](https://scikit-learn.org/stable/)
-
 
